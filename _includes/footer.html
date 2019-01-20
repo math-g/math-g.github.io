@@ -10,7 +10,8 @@
         <ul class="contact-list">
           <li class="p-name">
             {%- if site.author -%}
-              {{ site.author | escape }}
+              <!--{{ site.author | escape }}-->
+			  {%- include social.html -%}
             {%- else -%}
               {{ site.title | escape }}
             {%- endif -%}
@@ -21,9 +22,9 @@
         </ul>
       </div>
 
-      <div class="footer-col footer-col-2">
+      <!--<div class="footer-col footer-col-2">
         {%- include social.html -%}
-      </div>
+      </div>-->
 
       <div class="footer-col footer-col-3">
         <p>{{- site.description | escape -}}</p>
