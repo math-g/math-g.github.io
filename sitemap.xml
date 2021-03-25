@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://math-g.github.io/2018/12/10/working-days-oracle-sql.html</loc>
+<lastmod>2018-12-10T22:38:58+01:00</lastmod>
+</url>
+<url>
+<loc>https://math-g.github.io/2019/01/21/natural-full-outer-join-sql.html</loc>
+<lastmod>2019-01-21T22:38:58+01:00</lastmod>
+</url>
+<url>
+<loc>https://math-g.github.io/2019/05/15/gradle-integration-tests-without-specific-sourceset.html</loc>
+<lastmod>2019-05-15T23:21:58+02:00</lastmod>
+</url>
+<url>
+<loc>https://math-g.github.io/2019/05/15/oracle-sample-schemas-install-on-windows-10.html</loc>
+<lastmod>2019-05-15T23:21:58+02:00</lastmod>
+</url>
+<url>
+<loc>https://math-g.github.io/2020/01/17/logical-replication-and-file-system-full.html</loc>
+<lastmod>2020-01-17T22:21:58+01:00</lastmod>
+</url>
+<url>
+<loc>https://math-g.github.io/2020/12/28/oracle-hint-usage-report-leading-and-inline-conflict.html</loc>
+<lastmod>2020-12-28T22:21:58+01:00</lastmod>
+</url>
+<url>
+<loc>https://math-g.github.io/about/</loc>
+</url>
+<url>
+<loc>https://math-g.github.io/</loc>
+</url>
+</urlset>
